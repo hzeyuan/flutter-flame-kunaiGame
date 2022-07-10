@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "126417928596",
+    "project_id": "kunaigame-43516",
+    "storage_bucket": "kunaigame-43516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126417928596:android:5c0c12782b8b15b8f08f81",
+        "android_client_info": {
+          "package_name": "com.useless.kunai_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126417928596-g1bbiatvad6d7b9egro6s9o8c4ccf52s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAljj5JDmjSN_xsw265PEaC9DKCTznqnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126417928596-g1bbiatvad6d7b9egro6s9o8c4ccf52s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126417928596-hel1n0pkcd19h3j1h3mt95ojldoqmms8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameTemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
