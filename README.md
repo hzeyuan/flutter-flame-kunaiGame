@@ -9,7 +9,12 @@
 
 ------
 
+#### [中文说明](https://zhuanlan.zhihu.com/p/540391836)
+
+
 ## The game is modified on the basis of this template. [flutter game template](https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template)
+
+
 
 
 ## How to install
