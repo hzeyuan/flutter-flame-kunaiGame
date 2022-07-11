@@ -25,12 +25,11 @@ class MainMenuScreen extends StatelessWidget {
         squarishMainArea: Stack(
           children: [
             Center(
-                widthFactor: 1.2,
                 child: Image.asset(
-                  'assets/images/logo.png',
-                  width: 320,
-                  height: 320,
-                )),
+              'assets/images/logo.png',
+              width: 320,
+              height: 320,
+            )),
             Center(
               child: Transform.rotate(
                 angle: -0.1,
@@ -99,7 +98,7 @@ class MainMenuScreen extends StatelessWidget {
               ),
             ),
             _gap,
-            const Text('Author:你就像只铁甲小宝 '),
+            // const Text('Author:你就像只铁甲小宝 '),
             const Text('Email:yixotieq@mgail.com '),
 
             InkWell(

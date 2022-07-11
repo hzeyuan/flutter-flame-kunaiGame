@@ -37,7 +37,7 @@ class KunaiComponet extends SpriteAnimationComponent
     animation = await gameRef.loadSpriteAnimation(
       'layers/kunai.png',
       SpriteAnimationData.sequenced(
-        stepTime: 0.1,
+        stepTime: 1,
         amount: 1,
         loop: false,
         textureSize: Vector2(50, 255),
@@ -127,12 +127,6 @@ class KunaiComponet extends SpriteAnimationComponent
       return;
     }
 
-    //碰撞到木桩
-    // if (symbol == 'inTimber') {
-    //   return;
-    // }
-
-    ;
     y += kunaiSpeed * dt;
   }
 }

@@ -5,13 +5,34 @@
 
 -----
 
-> A simple Kunai game when i learn flame.
+> ## A simple Kunai game when i learn flame.
 
 ------
 
-## The game is modified on the basis of this template。
+## The game is modified on the basis of this template. [flutter game template](https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template)
 
-[flutter game template](https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template)
+
+## How to install
+
+#### Android:
+
+- [Download apk here](https://github.com/hzeyuan/flutter-flame-kunaiGame/releases/download/v0.0.1/v0.0.1.apk)
+
+#### macos 
+
+first you need to install appdmg
+
+- npm install appdmg -g
+
+then 
+
+
+```
+cd installer/mdg_creator
+appdmg ./config.json ./Ninja_Kunai.dmg
+```
+
+
 
 
 ## Game Rules
@@ -79,5 +100,6 @@ flutter run
 
 ## Thanks
 
-- [flutter gamete mplate]("https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template")
+- [flutter gamete mplate](https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template)
+
 - [flame](https://github.com/flame-engine/flame)

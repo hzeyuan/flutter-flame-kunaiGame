@@ -45,7 +45,6 @@ class TimberComponet extends SpriteComponent
       ..position = Vector2(100, 100)
       ..priority = 3;
     await add(_timberMask);
-    FlameAudio.bgm.initialize();
   }
 
   @override

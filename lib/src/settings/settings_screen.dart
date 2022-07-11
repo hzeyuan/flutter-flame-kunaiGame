@@ -85,7 +85,7 @@ class SettingsScreen extends StatelessWidget {
               );
             }),
             _gap,
-            // BannerAdWidget()
+            BannerAdWidget()
           ],
         ),
         rectangularMenuArea: ElevatedButton(

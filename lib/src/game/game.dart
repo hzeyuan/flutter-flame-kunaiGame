@@ -58,10 +58,9 @@ class KuaiGame extends FlameGame with HasTappables, HasCollisionDetection {
 
   @override
   Future<void> onLoad() async {
-    print(children.length);
+    isMute = context.read<SettingsController>().muted.value;
 
-    isMute =
-        await LocalStorageSettingsPersistence().getMuted(defaultValue: true);
+    // await LocalStorageSettingsPersistence().getMuted(defaultValue: true);
     // 加载背景
     await add(BackgroundCompoent());
     await add(SoundIcon(isMute));
@@ -99,6 +98,7 @@ class KuaiGame extends FlameGame with HasTappables, HasCollisionDetection {
     ]);
 
     await add(flameMultiBlocProvider);
+    // FlameAudio.bgm
     FlameAudio.bgm.initialize();
     return super.onLoad();
   }
@@ -145,7 +145,7 @@ class KuaiGame extends FlameGame with HasTappables, HasCollisionDetection {
 
   // 重新游戏
   void reset() {
-    GoRouter.of(context).go('/play');
+    GoRouter.of(context).refresh();
   }
 
   // 切换声音
@@ -202,6 +202,7 @@ class BackgroundCompoent extends SpriteComponent
   @override
   bool onTapDown(_) {
     gameRef.shoot();
+    print('点击');
     return false;
   }
 
