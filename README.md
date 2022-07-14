@@ -17,10 +17,10 @@
 
 ## screen
 
-<a href="https://imgtu.com/i/jfkxII"><img width="256px"  src="https://s1.ax1x.com/2022/07/14/jfkxII.png" alt="jfkxII.png" border="0"></a>
-<a href="https://imgtu.com/i/jfASit"><img width="256px" src="https://s1.ax1x.com/2022/07/14/jfASit.png" alt="jfASit.png" border="0"></a>
-<a href="https://imgtu.com/i/jfkvdA"><img width="256px"  src="https://s1.ax1x.com/2022/07/14/jfkvdA.png" alt="jfkvdA.png" border="0"></a>
-<a href="https://imgtu.com/i/jfApJP"><img width="256px"  src="https://s1.ax1x.com/2022/07/14/jfApJP.png" alt="jfApJP.png" border="0"></a>
+<a href="https://imgtu.com/i/jfkxII"><img width="200px"  src="https://s1.ax1x.com/2022/07/14/jfkxII.png" alt="jfkxII.png" border="0"></a>
+<a href="https://imgtu.com/i/jfASit"><img width="200px" src="https://s1.ax1x.com/2022/07/14/jfASit.png" alt="jfASit.png" border="0"></a>
+<a href="https://imgtu.com/i/jfkvdA"><img width="200x"  src="https://s1.ax1x.com/2022/07/14/jfkvdA.png" alt="jfkvdA.png" border="0"></a>
+<a href="https://imgtu.com/i/jfApJP"><img width="200px"  src="https://s1.ax1x.com/2022/07/14/jfApJP.png" alt="jfApJP.png" border="0"></a>
 
 
 
