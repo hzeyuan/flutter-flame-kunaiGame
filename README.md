@@ -3,12 +3,7 @@
 </p>
 
 
-### screen
 
-![](https://imgtu.com/i/jfASit)
-![](https://imgtu.com/i/jfkxII)
-![](https://imgtu.com/i/jfkvdA)
-![](https://imgtu.com/i/jfApJP)
 
 
 -----
@@ -18,6 +13,15 @@
 ------
 
 #### [中文说明](https://zhuanlan.zhihu.com/p/540391836)
+
+
+## screen
+
+[![jfASit.md.png](https://s1.ax1x.com/2022/07/14/jfASit.md.png)](https://imgtu.com/i/jfASit)
+[![jfkxII.md.png](https://s1.ax1x.com/2022/07/14/jfkxII.md.png)](https://imgtu.com/i/jfkxII)
+[![jfkvdA.md.png](https://s1.ax1x.com/2022/07/14/jfkvdA.md.png)](https://imgtu.com/i/jfkvdA)
+[![jfApJP.md.png](https://s1.ax1x.com/2022/07/14/jfApJP.md.png)](https://imgtu.com/i/jfApJP)
+
 
 
 ## The game is modified on the basis of this template. [flutter game template](https://github.com/flutter/samples/tree/3a0a652984e9b974342d172b9f0ffa161d0dcb2f/game_template)
